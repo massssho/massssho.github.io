@@ -57,6 +57,7 @@ ul {
 }
 li {
 	list-style: disc;
+	text-indent: 1rem;
 }
 p {
 	margin: 1em 0;
