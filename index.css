@@ -53,12 +53,10 @@ main {
 }
 ul {
 	margin: 0;
-	padding: 1.5em;
+	padding-left: 1.5em;
 }
 li {
 	list-style: disc;
-	line-height: 1.6;
-	margin-bottom: 8px;
 }
 p {
 	margin: 1em 0;
