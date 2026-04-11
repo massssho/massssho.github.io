@@ -123,48 +123,6 @@ blockquote {
 	padding: 5px;
 	margin: 10px;
 }
-@media screen and (max-width: 767px) {
-#header-container {
-    margin: 0;
-	width: 100%;
-}
-header {
-
-}
-#head-inner {
-    padding: 25px 10px;
-	background-color: #214555;
-}
-.description {
-}
-#content-wrapper {
-margin: 0;
-	width: 100%;}
-main {
-width: 100%;
-	color: #333;
-}
-#inner {
-	padding: 20px 10px 0 10px;
-}
-aside {
-width: 100%;
-}
-#middle-inner {
-	padding: 10px 10px 20px 10px;
-}
-h1 {
-	font-size: 20px;
-}
-h2 {
-	font-size: 18px;
-}
-h3 {
-	font-size: 16px;
-}
-h4 {
-	font-size: 14px;
-}
 .profile {
   display: flex;
   align-items: flex-start;
@@ -186,4 +144,47 @@ h4 {
 
 .profile-text p {
   margin-top: 0;
+}
+@media screen and (max-width: 767px) {
+	#header-container {
+	    margin: 0;
+		width: 100%;
+	}
+	header {
+	
+	}
+	#head-inner {
+	    padding: 25px 10px;
+		background-color: #214555;
+	}
+	.description {
+	}
+	#content-wrapper {
+	margin: 0;
+		width: 100%;}
+	main {
+	width: 100%;
+		color: #333;
+	}
+	#inner {
+		padding: 20px 10px 0 10px;
+	}
+	aside {
+	width: 100%;
+	}
+	#middle-inner {
+		padding: 10px 10px 20px 10px;
+	}
+	h1 {
+		font-size: 20px;
+	}
+	h2 {
+		font-size: 18px;
+	}
+	h3 {
+		font-size: 16px;
+	}
+	h4 {
+		font-size: 14px;
+}
 }
