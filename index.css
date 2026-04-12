@@ -8,7 +8,9 @@ body {
 }
 #header-container {
   margin: 0 auto;
-  width: 694px;
+  /*width: 694px;*/
+  max-width: 920px;
+  width: 92%;
 }
 header {
 	background-color: #C97A1F;
