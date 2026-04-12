@@ -43,8 +43,12 @@ h2 {
 	padding: 4px 0;
 	border-bottom: 1px solid #999;
 }
-#content-wrapper {margin: 0 auto;
-    width: 694px;}
+#content-wrapper {
+	margin: 0 auto;
+    /*width: 694px;*/
+	max-width: 920px;
+  	width: 92%;
+}
 main {
 	color: #333;
 }
