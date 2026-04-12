@@ -189,13 +189,10 @@ blockquote {
 	}
 	.profile {
 	    flex-direction: column;
-	    align-items: center; /* 中央寄せ（任意） */
 	}
 	.profile-img {
 	    width: 120px;
 	    height: 120px;
-	}	
-	.profile-text {
-	    text-align: center; /* 見た目きれいになる（任意） */
-  	}
+		align-items: center; /* 中央寄せ*/
+	}
 }
