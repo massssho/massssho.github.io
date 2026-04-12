@@ -131,8 +131,8 @@ blockquote {
 }
 
 .profile-img {
-  width: 200px;
-  height: 200px;
+  width: 180px;
+  height: 180px;
   object-fit: cover;
   border-radius: 10px;
   flex-shrink: 0;
